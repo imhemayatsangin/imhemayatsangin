@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hemayatullah Sangin @imhemayatsangin
 - 👀 I’m interested in web apps development
-- 🌱 I’m currently learning Python and React
+- 🌱 I’m currently learning Python, React and Flutter.
 - 💞️ I’m looking to collaborate on Laravel
 - 📫 hemayat.sangin@gmail.com
 
