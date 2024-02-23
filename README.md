@@ -82,8 +82,8 @@
 
 <p align="center">
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imhemayatsangin&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imhemayatsangin&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imhemayatsangin&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhemayatsangin&theme=tokyonight" align="center" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imhemayatsangin&include_all_commits=true&count_private=true&theme=merko" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhemayatsangin&include_all_commits=true&count_private=true&theme=tokyonight" align="center" />
 </p>
