@@ -13,70 +13,70 @@ Software developer.
 ## 💞️ Dev Stacks:
 
 <p align="left">
-<a href="#" style=text-decoration:none>
+<div style="margin-right: 10px;">
     <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/html5.svg" 
       alt="html5" 
       width="40" 
       height="40"/>     
-  </a> 
-  <a href="#" style=text-decoration:none>
+  </div>
+  <div style="margin-right: 10px;">
     <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/css3.svg" 
       alt="css3" 
       width="40" 
       height="40"/>     
-  </a> 
-    <a href="#" style=text-decoration:none>
+ </div>
+    <div style="margin-right: 10px;">
     <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/javascript.svg" 
       alt="javascript" 
       width="40" 
       height="40"/>     
-  </a>
-     <a href="#" style=text-decoration:none>
+  </div>
+   <div style="margin-right: 10px;">
     <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/react.png" 
       alt="react" 
       width="40" 
       height="40"/>     
-  </a>
-    <a href="#" style=text-decoration:none>
+  </div>
+    <div style="margin-right: 10px;">
     <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/php.png" 
       alt="php" 
       width="40" 
       height="40"/>     
-  </a>
-     <a href="#" style=text-decoration:none>
+  </div>
+     <div style="margin-right: 10px;">
     <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/laravel.png" 
       alt="laravel" 
       width="40" 
       height="40"/>     
-  </a>
-     <a href="#" style=text-decoration:none>
+ </div>
+     <div style="margin-right: 10px;">
     <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/python.png" 
       alt="laravel" 
       width="40" 
       height="40"/>     
-  </a>
-     <a href="#" style=text-decoration:none>
+  </div>
+     <div style="margin-right: 10px;">
     <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/tensorflow.svg" 
       alt="laravel" 
       width="40" 
       height="40"/>     
-  </a>
-    <a href="#" style=text-decoration:none>
+  </div>
+    <div style="margin-right: 10px;">
     <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/mysql.png" 
       alt="laravel" 
       width="40" 
       height="40"/>     
-  </a>
-    <a href="#" style=text-decoration:none>
+  </div>
+    <div style="margin-right: 10px;">
     <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/postgresql.png" 
       alt="laravel" 
       width="40" 
       height="40"/>     
-  </a>
-    <a href="#" style=text-decoration:none>
+  </div>
+    <div style="margin-right: 10px;">
     <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/flutter.png" 
       alt="laravel" 
       width="40" 
       height="40"/>     
-  </a>
+  </div>
 </p>
