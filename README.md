@@ -15,7 +15,7 @@
 
 ## 💞️ Dev Stacks:
 
-<p >
+<p align="left" >
 <div style="display: inline-block; margin-right: 10px;">
     <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/html5.svg" 
       alt="html5" 
