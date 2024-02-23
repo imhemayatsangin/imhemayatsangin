@@ -91,7 +91,7 @@
 ## 🏆🏆 Github Trophy
 
 <div align="center">
-  <a href="https://hemayat.io">
+  <a href="https://hemayat.io" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=imhemayatsangin"/>
   </a>
 </div>
