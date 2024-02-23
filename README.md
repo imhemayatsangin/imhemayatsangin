@@ -3,8 +3,7 @@
 <img align="right" alt="GIF" src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/giphy.gif" width="500" height="320" />
 
 👀 I’m interested in Web & AI apps development<br>
-🌱 I’m currently learning Python, React and Flutter<br>
-<img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/greetings.gif" width="40px"> I’m looking to collaborate on **Open-Source**<br>
+🌱 I’m currently learning Python, React and Flutter<br><img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/greetings.gif" width="40px">I’m looking to collaborate on **Open-Source**<br>
 📫 hemayat.sangin@gmail.com<br>
 💻 Website [hemayat.io](https://hemayat.io) <br>
 
