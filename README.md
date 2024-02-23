@@ -1,6 +1,5 @@
 <h1 >Hey <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/hola.webp" width="30px"> I'm Hemayatullah Sangin </h1>
 
-<div>
 <img align="right" alt="GIF" src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/giphy.gif" width="500" height="320" />
 
 **Software developer**.
@@ -11,11 +10,9 @@
 📫 hemayat.sangin@gmail.com<br>
 💻 Website [hemayat.io](https://hemayat.io) <br>
 
-</div>
-
 ## 💞️ Dev Stacks:
 
-<p align="left" >
+<div align="left" style="display: inline_block"><br/>
 <div style="display: inline-block; margin-right: 10px;">
     <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/html5.svg" 
       alt="html5" 
@@ -82,4 +79,4 @@
       width="40" 
       height="40"/>     
   </div>
-</p>
+</div>
