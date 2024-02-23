@@ -44,7 +44,7 @@ Software developer.
       height="40"/>     
   </a>
      <a href="#" style="text-decoration:none">
-    <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/laravel.png" 
+    <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/laravel.svg" 
       alt="laravel" 
       width="40" 
       height="40"/>     
