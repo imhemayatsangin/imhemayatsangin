@@ -1,8 +1,6 @@
-<h1 >Hey <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/hola.webp" width="30px"> I'm Hemayatullah Sangin </h1>
+<h1 >Hey <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/hola.webp" width="30px"> I'm **Software Developer** </h1>
 
 <img align="right" alt="GIF" src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/giphy.gif" width="500" height="320" />
-
-Software developer.
 
 👀 I’m interested in Web & AI apps development<br>
 🌱 I’m currently learning Python, React and Flutter<br>
