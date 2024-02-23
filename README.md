@@ -1,6 +1,6 @@
 <h1 >Hey <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/hola.webp" width="30px"> I'm Hemayatullah Sangin </h1>
 
-<img align="right" alt="GIF" src="https://github.com/imhemayatsangin/imhemayatsangin/asset/giphy.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/giphy.gif" width="500" height="320" />
 
 Software developer.
 
