@@ -77,3 +77,12 @@
       height="40"/>     
   </a>
 </p>
+
+## 📊 Github Stats
+
+<p align="center">
+  ![Hemayat's GitHub stats](https://github-readme-stats.vercel.app/api?username=imhemayatsangin&show_icons=true&theme=radical)
+
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imhemayatsangin&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhemayatsangin&theme=tokyonight" align="center" />
+</p>
