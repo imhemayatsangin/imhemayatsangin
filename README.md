@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/giphy.gif" width="500" height="320" />
 
-Software developer.
+**Software developer**.
 
 👀 I’m interested in Web & AI apps development<br>
 🌱 I’m currently learning Python, React and Flutter<br>
@@ -12,71 +12,71 @@ Software developer.
 
 ## 💞️ Dev Stacks:
 
-<p align="left">
-<div style="margin-right: 10px;">
+<div style="text-align: left;">
+<div style="display: inline-block; margin-right: 10px;">
     <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/html5.svg" 
       alt="html5" 
       width="40" 
       height="40"/>     
   </div>
-  <div style="margin-right: 10px;">
+  <div style="display: inline-block; margin-right: 10px;">
     <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/css3.svg" 
       alt="css3" 
       width="40" 
       height="40"/>     
  </div>
-    <div style="margin-right: 10px;">
+    <div style="display: inline-block; margin-right: 10px;">
     <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/javascript.svg" 
       alt="javascript" 
       width="40" 
       height="40"/>     
   </div>
-   <div style="margin-right: 10px;">
+   <div style="display: inline-block; margin-right: 10px;">
     <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/react.png" 
       alt="react" 
       width="40" 
       height="40"/>     
   </div>
-    <div style="margin-right: 10px;">
+    <div style="display: inline-block; margin-right: 10px;">
     <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/php.png" 
       alt="php" 
       width="40" 
       height="40"/>     
   </div>
-     <div style="margin-right: 10px;">
+     <div style="display: inline-block; margin-right: 10px;">
     <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/laravel.png" 
       alt="laravel" 
       width="40" 
       height="40"/>     
  </div>
-     <div style="margin-right: 10px;">
+     <div style="display: inline-block; margin-right: 10px;">
     <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/python.png" 
       alt="laravel" 
       width="40" 
       height="40"/>     
   </div>
-     <div style="margin-right: 10px;">
+     <div style="display: inline-block; margin-right: 10px;">
     <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/tensorflow.svg" 
       alt="laravel" 
       width="40" 
       height="40"/>     
   </div>
-    <div style="margin-right: 10px;">
+    <div style="display: inline-block; margin-right: 10px;">
     <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/mysql.png" 
       alt="laravel" 
       width="40" 
       height="40"/>     
   </div>
-    <div style="margin-right: 10px;">
+    <div style="display: inline-block; margin-right: 10px;">
     <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/postgresql.png" 
       alt="laravel" 
       width="40" 
       height="40"/>     
   </div>
-    <div style="margin-right: 10px;">
+    <div style="display: inline-block; margin-right: 10px;">
     <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/flutter.png" 
       alt="laravel" 
       width="40" 
       height="40"/>     
   </div>
-</p>
+</div>
