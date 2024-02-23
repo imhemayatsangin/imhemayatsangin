@@ -10,8 +10,11 @@
 📫 hemayat.sangin@gmail.com<br>
 💻 Website [hemayat.io](https://hemayat.io) <br>
 
-## 💞️ Dev Stacks:
+<h2>
 
+# 💞️ Dev Stacks:
+
+</h2>
 <div align="left" style="display: inline_block"><br/>
 <div style="display: inline-block; margin-right: 10px;">
     <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/html5.svg" 
