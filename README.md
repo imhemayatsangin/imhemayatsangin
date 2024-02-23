@@ -8,12 +8,12 @@ Software developer.
 🌱 I’m currently learning Python, React and Flutter<br>
 <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/greetings.gif" width="40px"> I’m looking to collaborate on **Open-Source**<br>
 📫 hemayat.sangin@gmail.com<br>
-💻 [Website](https://hemayat.io) <br>
+💻 Website [hemayat.io](https://hemayat.io) <br>
 
 ## 💞️ Dev Stacks:
 
 <p align="left">
-<a href="#" style="text-decoration:none">
+<a href="#" style=text-decoration:none>
     <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/html5.svg" 
       alt="html5" 
       width="40" 
