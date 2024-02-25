@@ -10,12 +10,9 @@
 ## 💞️ Dev Stacks:
 
 <div align="left">
- <a href="#" style="text-decoration:none">
-    <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/html5.svg" 
-      alt="html5" 
-      width="40" 
-      height="40"/> 
-       </a>
+   
+      <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/html5.svg" height="40" alt="html5"  />
+     
       <a href="#" style="text-decoration:none">
     <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/css3.svg" 
       alt="css3" 
