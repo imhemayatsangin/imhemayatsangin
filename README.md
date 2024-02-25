@@ -9,19 +9,16 @@
 
 ## 💞️ Dev Stacks:
 
-<p align="left">
-<a href="#" style="text-decoration:none">
+<div align="left">
+
     <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/html5.svg" 
       alt="html5" 
       width="40" 
       height="40"/>     
-  </a> 
-  <a href="#" style="text-decoration:none">
     <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/css3.svg" 
       alt="css3" 
       width="40" 
       height="40"/>     
-  </a> 
     <a href="#" style="text-decoration:none">
     <img src="https://github.com/imhemayatsangin/imhemayatsangin/blob/main/asset/javascript.svg" 
       alt="javascript" 
@@ -76,7 +73,7 @@
       width="40" 
       height="40"/>     
   </a>
-</p>
+</div>
 
 ## 📊 Github Stats
 
